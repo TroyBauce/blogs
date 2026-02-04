@@ -8,7 +8,7 @@ website:
   title: "Troy Bauce's Blog"
   navbar:
       left:
-        - text: "Home"
+        - text: "< Back to Main Page"
           href: https://troybauce.github.io
         - text: "Posts"
           file: index.qmd
