@@ -9,6 +9,8 @@ website:
   navbar:
       left:
         - text: "Home"
+          href: https://troybauce.github.io
+        - text: "Posts"
           file: index.qmd
         - text: "About"
           file: about.qmd
