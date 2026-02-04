@@ -1,0 +1,9 @@
+---
+title: "About"
+about:
+  template: jolla
+
+
+---
+
+This blog is usually about my interests and sometimes about current events. Expect writings about political issues and psychology. 

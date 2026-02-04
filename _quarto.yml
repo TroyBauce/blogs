@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  description: "A blog written by Troy Bauce"
+  site-url: https://troybauce.github.io/blog
+  title: "Troy Bauce's Blog"
+  navbar:
+      left:
+        - text: "Home"
+          file: index.qmd
+        - text: "About"
+          file: about.qmd
+      
+format:
+  html:
+    theme:
+      - cyborg
+    css: styles.css
+
+
+
